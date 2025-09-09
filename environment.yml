@@ -1,0 +1,15 @@
+name: teaching_2025
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - netcdf4
+  - xarray
+  - seaborn
+  - ipykernel
+  - nc-time-axis
+  - dask
